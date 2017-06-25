@@ -1,0 +1,25 @@
+
+.callout {
+    font-style: italic;
+    font-weight: 700;
+    color: coral;
+}
+h1{color:dark darkslategrey;
+font-style:bold}
+p{color: black;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+font-family: "Times New Roman"
+text-size:16}
+hr{color: black}
+body{background-color:#BBFF7A  }
+div img {max-width: 500px}
+.header{
+    background-color: lightgreen;
+    margin:100;
+    padding:0;
+    width:100%;
+    top:0;
+position:absolute;
+height: 100px}
